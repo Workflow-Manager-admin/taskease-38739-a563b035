@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/taskease-38739-a563b035/task_ease_frontend"
+}
